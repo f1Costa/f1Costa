@@ -1,5 +1,5 @@
 
-# 👋 Olá, eu sou Felipe!
+# Olá, eu sou o Felipe!
 
 ### 🚀 DevOps | ☁️ Multi-Cloud Enthusiast | 🐳 Docker | ☸️ Kubernetes | 🛠️ Automação
 
