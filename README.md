@@ -1,9 +1,4 @@
 
-
-Aqui está a versão atualizada com os logotipos dos providers ao lado dos nomes, em vez do ícone da nuvem:
-
----
-
 # 👋 Olá, eu sou Felipe!
 
 ### 🚀 DevOps | ☁️ Multi-Cloud Enthusiast | 🐳 Docker | ☸️ Kubernetes | 🛠️ Automação
