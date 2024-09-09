@@ -15,7 +15,7 @@ Sou apaixonado por automação de infraestrutura e soluções em nuvem. Minha ex
   
   - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="25" height="25"/> **Google Cloud**
     
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Cloud" width="75" height="75"/> **Oracle Cloud**
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Cloud" width="50" height="50"/> **Oracle Cloud**
     
   
 Sempre em busca de inovação, estou constantemente explorando novas tecnologias para automatizar e otimizar ambientes de Cloud.
@@ -28,7 +28,7 @@ Sempre em busca de inovação, estou constantemente explorando novas tecnologias
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="margin-right: 40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" style="margin-right: 40px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" style="margin-right: 40px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Cloud" width="120" height="120"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Cloud" width="80" height="80"/>
 </p>
 
 ---
