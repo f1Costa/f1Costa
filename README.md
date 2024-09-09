@@ -7,7 +7,7 @@ Sou apaixonado por automação de infraestrutura e soluções em nuvem. Minha ex
 
 - **DevOps**: Otimização de processos, CI/CD e entrega contínua 📦
 - **Containers**: Docker 🐳 e Kubernetes ☸️ para orquestração e escalabilidade
-- **Cloud**: ☁️
+- **Cloud**: Utilização dos recursos dos principais providers ☁️
   
     
 Sempre em busca de inovação, estou constantemente explorando novas tecnologias para automatizar e otimizar ambientes de Cloud.
