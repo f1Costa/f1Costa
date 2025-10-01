@@ -1,7 +1,7 @@
 
 # Olá, eu sou o Felipe! 🏆 9x Certified! ☁️🏅
 
-### 🔄 DevOps | ☁️ Multi-Cloud Enthusiast | 🐳 Docker | ☸️ Kubernetes | 🤖 Automação
+### 🔄 DevOps | ☁️ Multi-Cloud & IA | 🐳 Docker | ☸️ Kubernetes | 🤖 Automação
 
 Sou apaixonado por automação de infraestrutura e soluções em nuvem. Minha experiência abrange uma vasta gama de ferramentas e plataformas, incluindo:
 
