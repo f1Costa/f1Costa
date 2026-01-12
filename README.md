@@ -1,5 +1,5 @@
 
-# Olá, eu sou o Felipe! 🏆 9x Certified! ☁️🏅
+# Olá, eu sou o Felipe! 🏆 10x Certified! ☁️🏅
 
 ### 🔄 DevOps | ☁️ Multi-Cloud & IA | 🐳 Docker | ☸️ Kubernetes | 🤖 Automação
 
